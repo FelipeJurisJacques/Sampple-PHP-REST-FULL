@@ -8,6 +8,8 @@ Good use of the HTTP protocol;
 
 Error tracking;
 
+Developer mode to debug;
+
 Standardization of code in sub layers;
 
 JSON standard;
