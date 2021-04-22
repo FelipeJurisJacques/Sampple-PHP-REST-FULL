@@ -12,7 +12,15 @@ Standardization of code in sub layers;
 
 JSON standard;
 
-Multi database;
+Various configurable databases;
+
+Good response with performance;
+
+Object oriented;
+
+Classes imported automatically;
+
+No un imported files; 
 
 Simple, native and reduced code;
 
