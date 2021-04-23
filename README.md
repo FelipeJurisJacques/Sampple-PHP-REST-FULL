@@ -32,3 +32,17 @@ URL: http://localhost/server/anotacoes/nota
 Method: GET | POST | PUT | DELETE
 
 JSON: {"id":1,"titulo":"sample","mensagem":"test","registro":"2021-04-22 21:45"}
+
+The folder "annotations" is a microservice that is accessed via url. Each microservice has an htaccess that redirects all links to its index where the rest of the link goes through filters;
+
+The filter is the final URL combined with the address to the microservice, special elements in the filter, represent variables:
+
+"<i>": integer;
+  
+"<d>": floating;
+  
+"<s>": string;
+  
+"<n>": several integers separated by "/";
+  
+"<m>": several strings separated by "/";
