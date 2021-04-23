@@ -37,12 +37,12 @@ The folder "annotations" is a microservice that is accessed via url. Each micros
 
 The filter is the final URL combined with the address to the microservice, special elements in the filter, represent variables:
 
-"<i>": integer;
+<i>: integer;
   
-"<d>": floating;
+<d>: floating;
   
-"<s>": string;
+<s>: string;
   
-"<n>": several integers separated by "/";
+<n>: several integers separated by "/";
   
-"<m>": several strings separated by "/";
+<m>: several strings separated by "/";
