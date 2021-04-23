@@ -26,3 +26,5 @@ No un imported files;
 
 Simple, native and reduced code;
 
+# URL: http://localhost/server/anotacoes/nota
+# Method: GET | POST | PUT | DELETE
