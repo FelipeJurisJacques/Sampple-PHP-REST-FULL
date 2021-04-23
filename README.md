@@ -29,3 +29,5 @@ The filter is the final URL combined with the address to the microservice, speci
 "\<s\>": string; <br>
 "\<n\>": several integers separated by "/"; <br>
 "\<m\>": several strings separated by "/";
+
+The "Address" file is defined as global variables (constants) within the abstract class, the same file can be used for initial configurations (in this example it configures the database for the entire project)
