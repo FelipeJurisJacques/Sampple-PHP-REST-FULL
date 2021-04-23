@@ -19,8 +19,10 @@ Simple, native and reduced code; <br>
 # USE <br>
 URL: http://localhost/server/anotacoes/nota <br>
 Method: GET | POST | PUT | DELETE <br>
-JSON: {"id":1,"titulo":"sample","mensagem":"test","registro":"2021-04-22 21:45"} <br>
-The folder "annotations" is a microservice that is accessed via url. Each microservice has an htaccess that redirects all links to its index where the rest of the link goes through filters; <br>
+JSON: {"id":1,"titulo":"sample","mensagem":"test","registro":"2021-04-22 21:45"}
+
+The folder "annotations" is a microservice that is accessed via url. Each microservice has an htaccess that redirects all links to its index where the rest of the link goes through filters;
+
 The filter is the final URL combined with the address to the microservice, special elements in the filter, represent variables: <br>
 "\<i\>": integer; <br>
 "\<d\>": floating; <br>
