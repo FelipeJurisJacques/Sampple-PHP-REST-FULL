@@ -26,5 +26,9 @@ No un imported files;
 
 Simple, native and reduced code;
 
-# URL: http://localhost/server/anotacoes/nota
-# Method: GET | POST | PUT | DELETE
+# USE
+URL: http://localhost/server/anotacoes/nota
+
+Method: GET | POST | PUT | DELETE
+
+JSON: {"id":1,"titulo":"test","mensagem":"testing","registro":"2021-04-22 21:45"}
