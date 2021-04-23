@@ -42,7 +42,7 @@ The filter is the final URL combined with the address to the microservice, speci
 "<d>": floating;
   
 "<s>": string;
-  
+
 "<n>": several integers separated by "/";
-  
+
 "<m>": several strings separated by "/";
